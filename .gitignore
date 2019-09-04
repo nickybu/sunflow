@@ -1,0 +1,14 @@
+.idea/
+*.iml
+*.iws
+.DS_Store
+log/
+target/
+out/
+classes/
+
+.classpath
+.project
+.settings/
+
+*.png
